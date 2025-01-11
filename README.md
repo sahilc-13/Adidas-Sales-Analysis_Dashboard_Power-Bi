@@ -14,7 +14,7 @@ This dashboard provides a user-friendly and interactive visual representation of
 - Average Price per Unit
 - Average Operating Profit Percentage
 
-###### Charts Included:
+##### Charts Included:
 - Monthly Sales Trend: Visualizing sales distribution across the year.
 - Sales by State: Mapping total sales across different states in the country.
 - Sales by Region: A donut chart representing regional contribution to overall sales.
